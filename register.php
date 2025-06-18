@@ -39,8 +39,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host = 'smtp-relay.brevo.com';
         $mail->SMTPAuth = true;
-        $mail->Username = ''; // ✅ Your Brevo email
-        $mail->Password = ''; // ✅ Your Brevo SMTP key
+        $mail->Username = 'abc@gmail.com'; // ✅ Your Brevo email
+        $mail->Password = '12345'; // ✅ Your Brevo SMTP key
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
