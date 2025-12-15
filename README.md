@@ -4,7 +4,9 @@
 
 ---
 
-## 🔗 Direct link :- lifehub.lovestoblog.com/register.php
+## 🔗 Direct link :-
+
+** lifehub.lovestoblog.com/register.php**
 
 ---
 
