@@ -4,6 +4,10 @@
 
 ---
 
+## 🔗 Direct link :- lifehub.lovestoblog.com/register.php
+
+---
+
 ## ✨ Features
 - ✅ Daily Planner  
 - 📝 Journal with timestamps  
